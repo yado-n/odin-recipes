@@ -1,12 +1,19 @@
-# my first website project
-The current project is to test what i learned so far from thats include git and html but this is not the only thing this are technical but there are other theory that help me understand a lot how web and web development works.
+# My First Website Project
 
-## Technology i learned
-* git
-* html
+## About
+This is my first web development project.
+I am currently learning HTML and Git.
 
-### Technology i will learn for future
-- css
-- javascript
+## Technologies I Have Learned
+- HTML
+- Git
 
-## author yared dejene
+## Technologies I Will Learn
+- CSS
+- JavaScript
+
+## Learning Resources
+- [The Odin Project](https://www.theodinproject.com/)
+
+
+### Author: Yared Dejene
